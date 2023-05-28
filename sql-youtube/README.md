@@ -144,6 +144,7 @@ WHERE
 > 集合論で考えると難しくないので、DBも集合であることを意識する！
 
 ![image](https://storage.googleapis.com/zenn-user-upload/c8ea0982dbb5-20220824.png)
+参考文献：https://zenn.dev/umi_mori/books/331c0c9ef9e5f0/viewer/c34b50
 
 ### UPDATE
 - 値の更新
