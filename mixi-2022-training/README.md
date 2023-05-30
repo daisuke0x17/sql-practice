@@ -19,8 +19,9 @@
   - [トランザクション](#トランザクション)
 
 ## 資料
-- [研修動画](https://youtu.be/dseGQ2MZF1U)
-- [研修スライド](https://speakerdeck.com/mixi_engineers/2022-database-training)
+- [動画](https://youtu.be/dseGQ2MZF1U)
+- [座学スライド](https://speakerdeck.com/mixi_engineers/2022-database-training)
+- [ハンズオンスライド](https://speakerdeck.com/mixi_engineers/2022-sql-training)
 
 ## データシステム基礎
 ### なぜデータベースを学ぶのか
